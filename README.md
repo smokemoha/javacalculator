@@ -1,3 +1,7 @@
+A Demo Of The Java Calculator
+
+![Image](https://github.com/user-attachments/assets/2fb5d250-123a-4628-95af-48f6986d0497)
+
 # Java Calculator Application
 
 A simple Java-based calculator that performs basic arithmetic operations, including addition, subtraction, multiplication, division, exponentiation, and square root calculations.
