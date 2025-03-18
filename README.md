@@ -1,4 +1,4 @@
-A Demo Of The Java Calculator
+Java Calculator Application Demo
 
 ![Image](https://github.com/user-attachments/assets/2fb5d250-123a-4628-95af-48f6986d0497)
 
