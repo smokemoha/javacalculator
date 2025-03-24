@@ -25,7 +25,7 @@ Ensure you have the following installed on your system:
 ### Running in Eclipse
 1. Clone the repository (if not already cloned):
    ```sh
-   git clone https://github.com/yourusername/CalculatorApp.git
+   git clone https://github.com/smokemoha/CalculatorApp.git
    ```
 2. Open **Eclipse IDE**.
 3. Click on **File > Open Projects from File System...**.
